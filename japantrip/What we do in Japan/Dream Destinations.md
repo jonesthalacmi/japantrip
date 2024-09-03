@@ -1,1 +1,3 @@
 - Name, Price, Location 
+- Akihabara, <span style="color:rgb(192, 0, 0)">open</span> , Akihabara Station, 1-1 Soto-Kanda, Chiyoda-ku, Tokyo 101-0021, Japan![[Pasted image 20240903130741.png]]
+- 

@@ -1,1 +1,1 @@
-- Name, Price, Waittime, Date
+- Name, Price, Wait time, Datey

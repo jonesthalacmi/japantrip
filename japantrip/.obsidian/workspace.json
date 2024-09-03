@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3df5fb759e8563e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md",
+                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md",
+                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md"
+                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md"
               }
             }
           }
@@ -185,14 +197,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "194d58add2cdb7c9",
+  "active": "3df5fb759e8563e0",
   "lastOpenFiles": [
-    "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
-    "What we do in Japan/Activities.md",
+    "Actual Trip (Flight, Accommodation...)/Flight.md",
+    "Actual Trip (Flight, Accommodation...)/Public Transport.md",
     "What we do in Japan/Dream Destinations.md",
+    "Pasted image 20240903130741.png",
+    "What we do in Japan/Activities.md",
+    "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
     "What we do in Japan/Food Places.md",
     "Budget.md",
-    "Actual Trip (Flight, Accommodation...)/Flight.md",
     "!Japan Trip!.md",
     "Actual Trip (Flight, Accommodation...)",
     "main page.md",
