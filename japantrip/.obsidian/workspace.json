@@ -20,30 +20,6 @@
             }
           },
           {
-            "id": "466fd2a8f627d11d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b512762a35e31fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "194d58add2cdb7c9",
             "type": "leaf",
             "state": {
@@ -61,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+                "file": "What we do in Japan/Dream Destinations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+                "file": "What we do in Japan/Dream Destinations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+                "file": "What we do in Japan/Dream Destinations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md"
+                "file": "What we do in Japan/Dream Destinations.md"
               }
             }
           }
@@ -199,15 +175,21 @@
   },
   "active": "3df5fb759e8563e0",
   "lastOpenFiles": [
-    "Actual Trip (Flight, Accommodation...)/Flight.md",
-    "Actual Trip (Flight, Accommodation...)/Public Transport.md",
-    "What we do in Japan/Dream Destinations.md",
-    "Pasted image 20240903130741.png",
+    "Pasted image 20240903152320.png",
+    "Pasted image 20240903152317.png",
+    "Pasted image 20240903152300.png",
     "What we do in Japan/Activities.md",
-    "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
-    "What we do in Japan/Food Places.md",
-    "Budget.md",
     "!Japan Trip!.md",
+    "Budget.md",
+    "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
+    "What we do in Japan/Dream Destinations.md",
+    "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+    "Actual Trip (Flight, Accommodation...)/Flight.md",
+    "Pasted image 20240903131054.png",
+    "Pasted image 20240903130741.png",
+    "Pasted image 20240903131045.png",
+    "Louis Apology.md",
+    "What we do in Japan/Food Places.md",
     "Actual Trip (Flight, Accommodation...)",
     "main page.md",
     "What we do in Japan",
