@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +72,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "open homepage",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What we do in Japan/Dream Destinations.md",
+                "file": "!Japan Trip!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What we do in Japan/Dream Destinations.md",
+                "file": "!Japan Trip!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What we do in Japan/Dream Destinations.md"
+                "file": "!Japan Trip!.md"
               }
             }
           }
@@ -173,8 +172,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3df5fb759e8563e0",
+  "active": "1caed6561b19964f",
   "lastOpenFiles": [
+    "What we do in Japan/Dream Destinations.md",
     "Pasted image 20240903152320.png",
     "Pasted image 20240903152317.png",
     "Pasted image 20240903152300.png",
@@ -182,7 +182,6 @@
     "!Japan Trip!.md",
     "Budget.md",
     "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
-    "What we do in Japan/Dream Destinations.md",
     "Actual Trip (Flight, Accommodation...)/Public Transport.md",
     "Actual Trip (Flight, Accommodation...)/Flight.md",
     "Pasted image 20240903131054.png",
