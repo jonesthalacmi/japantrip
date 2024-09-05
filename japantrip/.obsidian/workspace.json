@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+                "file": "What we do in Japan/Activities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+                "file": "What we do in Japan/Activities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+                "file": "What we do in Japan/Activities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Public Transport.md"
+                "file": "What we do in Japan/Activities.md"
               }
             }
           }
@@ -150,11 +150,11 @@
   },
   "active": "4bc0626114641e4e",
   "lastOpenFiles": [
-    "What we do in Japan/Activities.md",
-    "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+    "What we do in Japan/Dream Destinations.md",
     "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
     "Actual Trip (Flight, Accommodation...)/Flight.md",
-    "What we do in Japan/Dream Destinations.md",
+    "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+    "What we do in Japan/Activities.md",
     "What we do in Japan/Food Places.md",
     "!Japan Trip!.md",
     "Budget.md",

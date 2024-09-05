@@ -8,7 +8,7 @@ https://www.jrpass.com/buy-the-japan-rail-pass-online
 Price all around Japan for 7 days: EUR 323
 
 https://www.japanrailpass-reservation.net/JrpReservation/UserEntry?tranNumber=2024090510010124147822&CompanyCode=2 (requires sign up)
-Price all around Japan for 7 days: YEN 50'000 = CHF 294,53
+Price all around Japan for 7 days: JPY 50'000 = CHF 294,53
 
 https://www.japan-rail-pass.com/de
 Price all around Japan for 7 days: EUR 329
