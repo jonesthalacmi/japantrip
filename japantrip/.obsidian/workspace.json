@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Budget.md",
+                "file": "!Japan Trip!.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Budget.md",
+                "file": "!Japan Trip!.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Budget.md",
+                "file": "!Japan Trip!.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Budget.md"
+                "file": "!Japan Trip!.md"
               }
             }
           }
@@ -145,19 +145,20 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "194d58add2cdb7c9",
   "lastOpenFiles": [
-    "!Japan Trip!.md",
     "What we do in Japan/Food Places.md",
+    "Budget.md",
+    "!Japan Trip!.md",
     "What we do in Japan/Dream Destinations.md",
     "What we do in Japan/Activities.md",
     "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
     "Actual Trip (Flight, Accommodation...)/Flight.md",
     "Actual Trip (Flight, Accommodation...)/Public Transport.md",
-    "Budget.md",
     "Pasted image 20240903152320.png",
     "Pasted image 20240903152317.png",
     "Pasted image 20240903152300.png",

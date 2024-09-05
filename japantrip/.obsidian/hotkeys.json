@@ -1,11 +1,11 @@
 {
-  "obsidian-git:commit": [
+  "obsidian-excalidraw-plugin:save": [],
+  "obsidian-git:commit-specified-message": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "S"
     }
-  ],
-  "obsidian-excalidraw-plugin:save": []
+  ]
 }
