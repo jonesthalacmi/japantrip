@@ -4,4 +4,4 @@ This is just something to plan the trip to Japan u can write ur dream destininat
 - Download Obsidian https://obsidian.md/download
 - Clone Repo and open Repo in Obsidian 
 - Download Homepage Plugin for Obsidian
-- Download Git PlugIn and creat Hotkeys ---> CTRL+S = commit ----> CTRL+P = Push 
+- Download Git PlugIn Hotkeys ---> CTRL+S = commit ----> CTRL+P = Push 
