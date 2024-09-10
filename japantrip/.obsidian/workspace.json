@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "666a3b6293b41248",
+        "id": "27342f4b24953bc3",
         "type": "tabs",
         "children": [
           {
-            "id": "14bf51779efb29fa",
+            "id": "83ab69c065de6202",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md",
+                "file": "What we do in Japan/Activities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md",
+                "file": "What we do in Japan/Activities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md",
+                "file": "What we do in Japan/Activities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Actual Trip (Flight, Accommodation...)/Flight.md"
+                "file": "What we do in Japan/Activities.md"
               }
             }
           }
@@ -149,8 +149,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "14bf51779efb29fa",
+  "active": "83ab69c065de6202",
   "lastOpenFiles": [
+    "Pasted image 20240910082248.png",
     "!Japan Trip!.md",
     "Actual Trip (Flight, Accommodation...)/Flight.md",
     "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",

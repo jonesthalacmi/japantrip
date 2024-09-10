@@ -15,6 +15,7 @@ https://www.tokyo-skytree.jp/en/ticket/individual/
 ###### Location
 https://maps.app.goo.gl/sDnf4GgLEekX8vSYA
 
+![[Pasted image 20240910082248.png]]
 ##### Shopping in Tokyo
 ###### Price
 can vary
