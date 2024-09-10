@@ -4,17 +4,17 @@
 
 ## General stuff we wanna eat 
 
-- Sushi 
+- ### Sushi 
 	![[Pasted image 20240910085045.png]]
-- Omurice 
+- ### Omurice 
 	![[Pasted image 20240910085107.png]]
-- Oyakodon 
+-  ###Oyakodon 
 	![[Pasted image 20240910085127.png]]
-- Yakitori 
+- ### Yakitori 
 	![[Pasted image 20240910085342.png]]
-- Ramen
+- ### Ramen
 	![[Pasted image 20240910085431.png]]
-- Okonomiyaki 
+- ### Okonomiyaki 
 	![[Pasted image 20240910085454.png]]
-- Japanese Curry 
+- ### Japanese Curry 
 	![[Pasted image 20240910085640.png]]
