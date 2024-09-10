@@ -1,5 +1,6 @@
 {
-  "obsidian-git:commit": [
+  "obsidian-excalidraw-plugin:save": [],
+  "obsidian-git:commit-specified-message": [
     {
       "modifiers": [
         "Mod"
@@ -7,22 +8,11 @@
       "key": "S"
     }
   ],
-  "editor:save-file": [],
-  "obsidian-excalidraw-plugin:save": [],
+  "command-palette:open": [],
   "obsidian-git:push2": [
     {
       "modifiers": [
         "Mod"
-      ],
-      "key": "P"
-    }
-  ],
-  "command-palette:open": [],
-  "obsidian-git:pull": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
       ],
       "key": "P"
     }
