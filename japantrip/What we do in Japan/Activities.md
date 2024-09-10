@@ -4,7 +4,7 @@
 
 ###### Price
 ~$150 - $170: https://www.tripadvisor.com/Attraction_Products-g294232-d321024-Mount_Fuji-Japan.html
-###### Location 
+###### Location
 https://maps.app.goo.gl/aZhifuNejH6FYMyu9
 
 ##### Tokyo Skytree
