@@ -1,14 +1,12 @@
 - Name, Price, Location 
 
-
-
 ## General stuff we wanna eat 
 
 - ### Sushi 
 	![[Pasted image 20240910085045.png]]
 - ### Omurice 
 	![[Pasted image 20240910085107.png]]
--  ###Oyakodon 
+- ### Oyakodon 
 	![[Pasted image 20240910085127.png]]
 - ### Yakitori 
 	![[Pasted image 20240910085342.png]]
