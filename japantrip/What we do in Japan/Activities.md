@@ -7,6 +7,8 @@
 ###### Location 
 https://maps.app.goo.gl/aZhifuNejH6FYMyu9
 
+![[Pasted image 20240910083340.png]]
+
 ##### Tokyo Skytree
 ###### Price
 	- Combo Ticket: ~3100 JPY = 18.25 CHF
@@ -22,4 +24,6 @@ can vary
 ###### Location
 Tokyo Region:
 https://www.japan-guide.com/e/e3053.html
+
+![[Pasted image 20240910083427.png]]
 
