@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "adeaf2c7f4efd35d",
+    "id": "d622f9c550aa0e1a",
     "type": "split",
     "children": [
       {
-        "id": "b8c05310d970b29c",
+        "id": "81a65078f17ae648",
         "type": "tabs",
         "children": [
           {
-            "id": "bd807e3cb3d82395",
+            "id": "a4fb0917db7a8026",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,22 +18,35 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "21bfcf41a1f01005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4c4ba66fce0cd65e",
+    "id": "736056535208a94e",
     "type": "split",
     "children": [
       {
-        "id": "a1273d614f17cec2",
+        "id": "aa04e27a6c106768",
         "type": "tabs",
         "children": [
           {
-            "id": "1caed6561b19964f",
+            "id": "b1bac7ee47a124af",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "da1c432bb5a9ba81",
+            "id": "55ccc25361e72610",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "bab67f12174501fa",
+            "id": "c3f00f1e9e82f377",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "acd5ef07e14f9528",
+    "id": "4feb97722bc34beb",
     "type": "split",
     "children": [
       {
-        "id": "53802f51e6e48581",
+        "id": "9551debc74883e95",
         "type": "tabs",
         "children": [
           {
-            "id": "3e00d9d6c9afd15d",
+            "id": "a308b42be35578b1",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "!Japan Trip!.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "7695bb9496353a0c",
+            "id": "c301feae2f214b9e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "!Japan Trip!.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "abd539c9afd7d1f6",
+            "id": "27175ddee01c81e9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "b5ecfea8709b0ef1",
+            "id": "f08b904f204c92a6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "!Japan Trip!.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -138,27 +151,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "homepage:Open homepage": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "homepage:Open homepage": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd807e3cb3d82395",
+  "active": "21bfcf41a1f01005",
   "lastOpenFiles": [
-    "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
-    "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+    "!Japan Trip!.md",
+    "conflict-files-obsidian-git.md",
     "Images/Pasted image 20240910085640.png",
-    "Budget.md",
-    "What we do in Japan/Food Places.md",
-    "What we do in Japan/Activities.md",
-    "Images/Pasted image 20240903131054.png",
-    "Images",
     "Images/Pasted image 20240910085454.png",
     "Images/Pasted image 20240910085431.png",
     "Images/Pasted image 20240910085425.png",
@@ -167,14 +175,14 @@
     "Images/Pasted image 20240910085318.png",
     "Images/Pasted image 20240910085316.png",
     "Images/Pasted image 20240910085244.png",
+    "Images/Pasted image 20240910085159.png",
+    "Images",
+    "What we do in Japan/Activities.md",
     "What we do in Japan/Dream Destinations.md",
-    "!Japan Trip!.md",
+    "Actual Trip (Flight, Accommodation...)/Hotel, Hostel, Youth hostel.md",
     "Actual Trip (Flight, Accommodation...)/Flight.md",
-    "Louis Apology.md",
-    "Actual Trip (Flight, Accommodation...)",
-    "main page.md",
-    "What we do in Japan",
-    "Untitled.canvas",
-    "2024-09-03.md"
+    "Actual Trip (Flight, Accommodation...)/Public Transport.md",
+    "What we do in Japan/Food Places.md",
+    "Budget.md"
   ]
 }
